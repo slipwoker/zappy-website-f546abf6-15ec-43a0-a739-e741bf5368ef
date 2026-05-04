@@ -1,0 +1,79 @@
+# الوح الذكي — Generative Engine Optimization Map
+
+> A smart board project designed for educational environments, specifically to display school schedules and curricula. The brand has a calm, clean, and modern educational vibe with a soothing color palette of warm grays, quiet greens, and light blues — evoking clarity, focus, and a welcoming classroom atmosphere.
+
+---
+
+## Pages
+
+### الرئيسية
+https://example.com
+اكتشف الوح الذكي، المشروع الرائد في تقنية التعليم الذي يُحدث ثورة في عرض الجداول الدراسية والمناهج. بيئة تعليمية أكثر وضوحاً وتنظيماً تبدأ من هنا.
+
+### المميزات
+https://example.com/features
+استكشف مميزات الوح الذكي المتطورة في مجال تكنولوجيا التعليم: عرض فوري للمناهج، جداول تفاعلية، وتصميم يُلهم التركيز. اكتشف الفرق الحقيقي اليوم.
+
+### من نحن
+https://example.com/about
+تعرّف على الفريق والرؤية التي أطلقت مشروع الوح الذكي في عالم تقنية التعليم. نؤمن بأن البيئة المنظمة تصنع جيلاً واعياً ومتميزاً. انضم إلى رحلتنا.
+
+### اتصل بنا
+https://example.com/contact
+هل أنت مستعد لتحويل بيئتك التعليمية بأحدث حلول تقنية التعليم؟ تواصل مع فريق الوح الذكي الآن واحصل على استشارة مخصصة تُناسب احتياجات مدرستك.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About الوح الذكي
+A smart board project designed for educational environments, specifically to display school schedules and curricula. The brand has a calm, clean, and modern educational vibe with a soothing color palette of warm grays, quiet greens, and light blues — evoking clarity, focus, and a welcoming classroom atmosphere.
+
+## Target Audience
+- schools, students, teachers
+- School Administrators
+- Tech-Savvy Teachers
+- Private Education Investors
+
+## Industry
+EdTech / Education Technology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
